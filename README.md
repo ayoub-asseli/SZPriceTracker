@@ -1,4 +1,4 @@
-# ShopScraper
+# SZPriceTracker
 
 This tool is a price tracker. It'll allow you to have a promotional follow-up on your favorite items of the websites:
 
