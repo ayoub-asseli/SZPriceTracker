@@ -7,6 +7,8 @@ This tool is a price tracker. It'll allow you to have a promotional follow-up on
 
 When one of your items goes on promotion, you will be notified by email.
 
+<img width="961" alt="Capture d’écran 2021-05-21 à 21 52 03" src="https://user-images.githubusercontent.com/59586260/119192059-c98ce880-ba7f-11eb-97f5-95fbce6f2630.png">
+
 Steps of use:
 
 - Compile in the file 'articles_urls.py' urls of the articles that interest you the most
