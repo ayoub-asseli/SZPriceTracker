@@ -39,7 +39,7 @@ class EmailSender():
             print('successfully sent the mail')
 
     def email_sender_Snipes(self, receiver_name, model, initial_price, new_price, url):
-        email_password = "maxiPrepa92"
+        email_password = "your e-mail password"
         message = MIMEMultipart("alternative")
         message["Subject"] = "Snipes Price Tracker"
         message["From"] = self.sender_email
