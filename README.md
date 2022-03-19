@@ -21,4 +21,4 @@ Steps of use:
 - Finally, you can automate all these execution steps with CRON for a daily follow-up of the items
 
 
-PS: If you want to generate a csv table with some information related to your items, then execute the file 'articles_into_csv_file.py'
+PS: If you want to generate a csv table with some information related to your items then execute the file 'articles_into_csv_file.py'
