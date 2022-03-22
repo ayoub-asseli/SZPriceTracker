@@ -11,14 +11,3 @@ When one of your items goes on promotion, you will be notified by email.
 
 <img width="961" alt="Capture d’écran 2021-05-21 à 22 00 03" src="https://user-images.githubusercontent.com/59586260/119192226-0fe24780-ba80-11eb-89e8-b85b2360569c.png">
 
-
-Steps of use:
-
-- Compile in the file 'articles_urls.py' urls of the articles that interest you the most
-- To receive the notification you'll have to specify the e-mail address of the sender and the e-mail address of the receiver in the file 'PriceTracker.py'
-- Specify the e-mail password of the sender into the functions email_sender_Zalando and and email_sender_Snipes in the file 'EmailSender.py'
-- Then, you just have to execute the file 'PriceTracker.py'
-- Finally, you can automate all these execution steps with CRON for a daily follow-up of the items
-
-
-PS: If you want to generate a csv table with some information related to your items then execute the file 'articles_into_csv_file.py'
