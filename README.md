@@ -1,11 +1,11 @@
 # SZPriceTracker
 
-This tool is a price tracker. It'll allow you to have a promotional follow-up on your favorite items of the websites:
+This tool is a price tracker. It'll allow you to have a special offer follow-up on your favorite items of the websites:
 
 - Snipes
 - Zalando
 
-When one of your items goes on special offer, you will be notified by email.
+When one of your items goes on special, you will be notified by email.
 
 <img width="961" alt="Capture d’écran 2021-05-21 à 21 52 03" src="https://user-images.githubusercontent.com/59586260/119192059-c98ce880-ba7f-11eb-97f5-95fbce6f2630.png">
 
